@@ -1,0 +1,352 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://home220465231.1and1-data.host" ftp_rootfolder="//2015" exportTarget="FTP" domain="ariamontessori.net" resolutions="1x" timestamp="1600396422317">
+  <folder name="css">
+    <file name="site_global.css" crc="152064106"/>
+    <file name="master_b-master-copy.css" crc="122166366" ref="contact-us:about-aria:index:admissions:philosophy-and-program:pinktower"/>
+    <file name="contact-us.css" crc="515095775" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="4236346856" ref="contact-us"/>
+    <file name="about-aria.css" crc="342274456" ref="about-aria"/>
+    <file name="iefonts_about-aria.css" crc="173879765" ref="about-aria"/>
+    <file name="index.css" crc="4143893369" ref="index"/>
+    <file name="admissions.css" crc="128218439" ref="admissions"/>
+    <file name="iefonts_admissions.css" crc="173421602" ref="admissions"/>
+    <file name="philosophy-and-program.css" crc="4234133455" ref="philosophy-and-program"/>
+    <file name="iefonts_philosophy-and-program.css" crc="4188897558" ref="philosophy-and-program"/>
+    <file name="pinktower.css" crc="4256143884" ref="pinktower"/>
+    <file name="iefonts_pinktower.css" crc="173421602" ref="pinktower"/>
+  </folder>
+  <folder name="assets">
+    <file name="summer_camp.jpg" crc="4224696078" seo="true" mt="1429115817000"/>
+    <file name="tour.png" crc="82298120" seo="true" mt="1429117815000"/>
+    <file name="native2_background.png" crc="3894853927" seo="true" mt="1429124920000"/>
+    <file name="img_0312.jpg" crc="4062630554" seo="true" mt="1442352220000"/>
+    <file name="img_0324.jpg" crc="3960607484" seo="true" mt="1442352190000"/>
+    <file name="img_0328.jpg" crc="100085756" seo="true" mt="1442352202000"/>
+    <file name="img_1425.jpg" crc="3888208439" seo="true" mt="1442352236000"/>
+    <file name="img_2662.jpg" crc="3897706272" seo="true" mt="1442352244000"/>
+    <file name="feb-2014-ipad-2492.jpg" crc="4051309529" seo="true" mt="1442352208000"/>
+    <file name="img_0312b.jpg" crc="3758270416" seo="true" mt="1442353868000"/>
+    <file name="img_1874.jpg" crc="25121202" seo="true" mt="1442352240000"/>
+    <file name="img_2662b.jpg" crc="3799905627" seo="true" mt="1442353963000"/>
+    <file name="img_2676.jpg" crc="3838319909" seo="true" mt="1442352248000"/>
+    <file name="img_2687.jpg" crc="307808215" seo="true" mt="1442352253000"/>
+    <file name="couple.jpg" crc="204501897" seo="true" mt="1443628434000"/>
+    <file name="leaves4.png" crc="4081756199" seo="true" mt="1443637836000"/>
+    <file name="halloween_3.jpg" crc="136761670" seo="true" mt="1473739157000"/>
+    <file name="halloween_4.jpg" crc="25329904" seo="true" mt="1473739192000"/>
+    <file name="ad.jpg" crc="4185567453" seo="true" mt="1473740062000"/>
+    <file name="earth-day.mp4" crc="150316829" seo="true" mt="1556854232000"/>
+    <file name="video.jpg" crc="3852155882" seo="true" mt="1556855612000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="webpro.js" crc="3856315280" ref="index:philosophy-and-program:contact-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:philosophy-and-program"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:philosophy-and-program"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:philosophy-and-program"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:philosophy-and-program"/>
+    <file name="require.js" crc="4177726516" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="about-aria"/>
+    <file name="form_check.php" crc="4108222811" ref="contact-us"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact-us"/>
+    <file name="form_process.php" crc="260214869" ref="contact-us"/>
+    <file name="form-u3134.php" crc="149704954" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="u3864.png" crc="52917102" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="u3864-r.png" crc="52917102" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="ariam_logo.png" crc="278459697" seo="true" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="admissions" alt=""/>
+      <caption webpage="admissions" alt=""/>
+      <caption webpage="pinktower" alt=""/>
+      <caption webpage="pinktower" alt=""/>
+      <caption webpage="pinktower" alt=""/>
+      <caption webpage="philosophy-and-program" alt=""/>
+      <caption webpage="philosophy-and-program" alt=""/>
+      <caption webpage="about-aria" alt=""/>
+      <caption webpage="about-aria" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:philosophy-and-program"/>
+    <file name="aria-photo-2.jpg" crc="369796512" ref="about-aria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-aria" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:philosophy-and-program"/>
+    <file name="ph00.jpg" crc="4259749040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph01.jpg" crc="4010595856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph02.jpg" crc="3806007933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph03.jpg" crc="3771406659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph04.jpg" crc="3892074876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph05.jpg" crc="3810206692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph06.jpg" crc="3912452201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph07.jpg" crc="314973948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph08.jpg" crc="4053454333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph09.jpg" crc="3763126899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph010.jpg" crc="4055913377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ph011.jpg" crc="4240891017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ariam_logo-u3859.png" crc="3924558716" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="google--u3856.png" crc="3973074246" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us"/>
+    <file name="native_background.png" crc="515400394" ref="index:about-aria:philosophy-and-program:admissions:pinktower:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="admissions" alt=""/>
+      <caption webpage="pinktower" alt=""/>
+      <caption webpage="philosophy-and-program" alt=""/>
+      <caption webpage="about-aria" alt=""/>
+    </file>
+    <file name="back_fafafa.jpg" crc="326800712" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=" "/>
+    </file>
+    <file name="img_0312b-crop-u13108.jpg" crc="307954929" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="img_2662-crop-u13341.jpg" crc="180586816" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="img_1874-crop-u13254.jpg" crc="330194023" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="img_2676.jpg" crc="134856992" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="spring flowers.jpg" crc="4081948086" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed(1).jpg" crc="3929141087" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed(2).jpg" crc="272555040" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed(4).jpg" crc="4276903224" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="4004229329" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed(3).jpg" crc="380431792" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="unnamed(5)-crop-u14516.jpg" crc="4126918173" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="spring flowers-crop-u14565.jpg" crc="536440189" seo="true" ref="pinktower">
+      <caption webpage="pinktower" alt=""/>
+    </file>
+    <file name="couple.jpg" crc="204501897" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="image23.jpg" crc="4287462150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image0-crop-u14898.jpg" crc="4280033314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image1-crop-u16374.jpg" crc="4079988901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image2-crop-u15865.jpg" crc="98271754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3-crop-u15885.jpg" crc="123440491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4-crop-u15905.jpg" crc="351941612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5-crop-u15925.jpg" crc="312358950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image6-crop-u15945.jpg" crc="4136567107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image9-crop-u16005.jpg" crc="4222269309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image10-crop-u16025.jpg" crc="4028648034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image11-crop-u16045.jpg" crc="177451669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image12-crop-u16065.jpg" crc="4170408912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image13-crop-u16085.jpg" crc="4027724807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image14-crop-u16105.jpg" crc="509060343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image16-crop-u16125.jpg" crc="4185951296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image17-crop-u16145.jpg" crc="3865034103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image18-crop-u16165.jpg" crc="3998184801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image21-crop-u16225.jpg" crc="206440526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image22-crop-u16245.jpg" crc="3701417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image20.jpg" crc="4148207800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image24.jpg" crc="340838920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image19.jpg" crc="4225218073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1f30b95-35f0-48c6-8ba6-55c94031c10d-crop-u16969.jpg" crc="3808842627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6327.jpg" crc="3849572561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6328-crop-u17009.jpg" crc="3787077803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6331-crop-u17049.jpg" crc="4039824619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6334-crop-u17069.jpg" crc="3927720965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6335-crop-u17089.jpg" crc="107565965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6440-crop-u17109.jpg" crc="4041279447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6345-crop-u17129.jpg" crc="261801309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6442-crop-u17149.jpg" crc="4104494762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6537_1-crop-u17189.jpg" crc="379895123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="feb 2014 ipad 2492.jpg" crc="3932161232" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="img_1422.jpg" crc="273295942" seo="true" ref="philosophy-and-program">
+      <caption webpage="philosophy-and-program" alt=""/>
+    </file>
+    <file name="fall_2020.jpg" crc="4044536684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16435-6.png" crc="150023228" ref="index"/>
+    <file name="u17221-6.png" crc="3985768398" ref="index"/>
+    <file name="img_6330-crop-u17029.jpg" crc="4240100649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="17507747" seo="true" mt="1600396354534" redirect="true"/>
+  <file name="about-aria.html" crc="3954107306" seo="true" mt="1600396078105" redirect="true"/>
+  <file name="philosophy-and-program.html" crc="4182215519" seo="true" mt="1600396078105" redirect="true"/>
+  <file name="admissions.html" crc="384256099" seo="true" mt="1600396078105" redirect="true"/>
+  <file name="pinktower.html" crc="4198292918" seo="true" mt="1600396078105" redirect="true"/>
+  <file name="contact-us.html" crc="148385132" seo="true" mt="1600396078105" redirect="true"/>
+  <site>
+    <asset filename="summer_camp.jpg" muse_href="upload:U3781"/>
+    <asset filename="tour.png" muse_href="upload:U3805"/>
+    <asset filename="native2_background.png" muse_href="upload:U3809"/>
+    <asset filename="img_0312.jpg" muse_href="upload:U4050"/>
+    <asset filename="img_0324.jpg" muse_href="upload:U4056"/>
+    <asset filename="img_0328.jpg" muse_href="upload:U4058"/>
+    <asset filename="img_1425.jpg" muse_href="upload:U4062"/>
+    <asset filename="img_2662.jpg" muse_href="upload:U4066"/>
+    <asset filename="feb-2014-ipad-2492.jpg" muse_href="upload:U9753"/>
+    <asset filename="img_0312b.jpg" muse_href="upload:U9755"/>
+    <asset filename="img_1874.jpg" muse_href="upload:U9757"/>
+    <asset filename="img_2662b.jpg" muse_href="upload:U9759"/>
+    <asset filename="img_2676.jpg" muse_href="upload:U9761"/>
+    <asset filename="img_2687.jpg" muse_href="upload:U9763"/>
+    <asset filename="couple.jpg" muse_href="upload:U9788"/>
+    <asset filename="leaves4.png" muse_href="upload:U9836"/>
+    <asset filename="halloween_3.jpg" muse_href="upload:U10260"/>
+    <asset filename="halloween_4.jpg" muse_href="upload:U10262"/>
+    <asset filename="ad.jpg" muse_href="upload:U10287"/>
+    <asset filename="earth-day.mp4" muse_href="upload:U14590"/>
+    <asset filename="video.jpg" muse_href="upload:U14592"/>
+    <paragraphStyle className="normal_text" uid="U48"/>
+    <paragraphStyle className="Paragraph-Style" uid="U3110"/>
+    <paragraphStyle className="Subtitle" uid="U3111"/>
+    <paragraphStyle className="Aria-title" uid="U3112"/>
+    <paragraphStyle className="MENUS" uid="U3476"/>
+    <paragraphStyle className="heading2" uid="U9498"/>
+    <paragraphStyle className="caption" uid="U9508"/>
+    <paragraphStyle className="bodytext" uid="U9513"/>
+    <paragraphStyle className="heading1" uid="U9515"/>
+    <paragraphStyle className="Quote" uid="U9523"/>
+    <paragraphStyle className="BodyText" uid="U9652"/>
+    <textLinkStyle className="Contact-Form" uid="U4001"/>
+    <nestedListStyle className="nls-None" uid="U51"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U1640" master="U3847">
+        <breakpoint uid="U9838" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="B-Master copy" master="U60" uid="U3847">
+        <breakpoint uid="U9837" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U60">
+        <breakpoint uid="U9841" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="About Aria" filename="about-aria.html" muse_href="page:U2974" master="U3847">
+        <breakpoint uid="U9843" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Philosophy and Program" filename="philosophy-and-program.html" muse_href="page:U2992" master="U3847">
+        <breakpoint uid="U9839" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Admissions" filename="admissions.html" muse_href="page:U3107" master="U3847">
+        <breakpoint uid="U9845" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="pinktower" filename="pinktower.html" muse_href="page:U3120" master="U3847">
+        <breakpoint uid="U9842" maxwidth="1160" minwidth="0" squishy="false"/>
+        <anchor name="Spring-Newsletter" html_id="spring-newsletter" muse_href="anchor:U3113:U14575" includeInBPs="U9842"/>
+      </page>
+      <page name="Contact Us" filename="contact-us.html" muse_href="page:U3128" master="U3847">
+        <breakpoint uid="U9844" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
